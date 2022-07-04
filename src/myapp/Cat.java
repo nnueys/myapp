@@ -5,4 +5,5 @@ public class Cat {
     private String breed;
     private int age;
     private double weight;
+    private String color;
 }
