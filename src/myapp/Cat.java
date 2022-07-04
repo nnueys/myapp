@@ -6,4 +6,6 @@ public class Cat {
     private int age;
     private double weight;
     private String owner;
+    private String color;
+
 }
